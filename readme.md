@@ -18,9 +18,9 @@ To improve front-end skills, build real-world UI structures, experiment with dif
 
 ## 📚 Projects List
 
-| #   | Project Name           | Live Demo      |
-| --- | ---------------------- | -------------- |
-| 01  | Freelance Form Project | [Live Demo](#) |
+| #   | Project Name | Live Demo                                  |
+| --- | ------------ | ------------------------------------------ |
+| 01  | Bono Page    | [Live Demo](https://bonopage.netlify.app/) |
 
 ---
 
