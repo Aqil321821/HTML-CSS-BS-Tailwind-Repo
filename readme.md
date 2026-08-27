@@ -18,9 +18,11 @@ To improve front-end skills, build real-world UI structures, experiment with dif
 
 ## 📚 Projects List
 
-| #   | Project Name | Live Demo                                  |
-| --- | ------------ | ------------------------------------------ |
-| 01  | Bono Page    | [Live Demo](https://bonopage.netlify.app/) |
+| #   | Project Name   | Live Demo                                  |
+| --- | -------------- | ------------------------------------------ |
+| 01  | Bono Page      | [Live Demo](https://bonopage.netlify.app/) |
+| 02  | Lumina-gallery | [Live Demo](https://bonopage.netlify.app/) |
+| 03  | Tutor-website  | [Live Demo](https://bonopage.netlify.app/) |
 
 ---
 
@@ -67,4 +69,4 @@ Feel free to use, modify, and learn from the code.
 
 ## ▶️ How to Run Locally
 
-Simply Click the Preview Link in Table Below
+Simply Click the Preview Link in Table above
