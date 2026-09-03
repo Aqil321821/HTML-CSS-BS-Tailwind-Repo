@@ -18,12 +18,12 @@ To improve front-end skills, build real-world UI structures, experiment with dif
 
 ## 📚 Projects List
 
-| #   | Project Name           | Live Demo                                  |
-| --- | ---------------------- | ------------------------------------------ |
-| 01  | Bono Page              | [Live Demo](https://bonopage.netlify.app/) |
-| 02  | Lumina-gallery         | [Live Demo](https://bonopage.netlify.app/) |
-| 03  | Tutor-website          | [Live Demo](https://bonopage.netlify.app/) |
-| 03  | Pricing Crads using BS | [Live Demo](https://bonopage.netlify.app/) |
+| #   | Project Name           | Live Demo                                      |
+| --- | ---------------------- | ---------------------------------------------- |
+| 01  | Bono Page              | [Live Demo](https://bonopage.netlify.app/)     |
+| 02  | Lumina-gallery         | [Live Demo](https://gallery-aqil.netlify.app/) |
+| 03  | Tutor-website          | [Live Demo](https://tutor-aqil.netlify.app/)   |
+| 03  | Pricing Crads using BS | [Live Demo](https://cards-aqil.netlify.app/)   |
 
 ---
 
