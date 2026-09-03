@@ -1,0 +1,16 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+.br {
+  border: 1px solid red;
+}
+.bg {
+  border: 1px solid green;
+}
+@media (min-width: 900px) {
+  body {
+    .container {
+      max-width: 800px;
+    }
+  }
+}
