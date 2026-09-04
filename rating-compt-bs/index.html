@@ -1,0 +1,142 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.3.1/css/all.css"
+      integrity="sha512-x9WwyMYBnlXMNQ6kQ/Lyzu1NqIhLQKL5Oq6xByfXuRj7s9CskyCbLv/1IjqzJmXwFXWr0ov6jBV7Qbc0hh9nHg=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <link rel="stylesheet" href="css/bootstrap.min.css" />
+    <link rel="stylesheet" href="css/style.css" />
+
+    <title>Rating Component</title>
+  </head>
+
+  <body>
+    <div class="container">
+      <div class="card bg-light border-0 shadow-lg rounded-4 mt-5">
+        <div class="card-body">
+          <div class="row p-5">
+            <div class="col-7">
+              <h2 class="fw-bold">Reviews about our Product</h2>
+            </div>
+            <div class="col-5">
+              <div class="card">
+                <div class="card-body">
+                  <h3 class="display-5 fw-semibold">
+                    <i class="fas fa-star text-warning"></i> 4.6
+                  </h3>
+                  <p class="text-center">Avg Ratings</p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- search bar -->
+
+          <div class="row px-5">
+            <div class="col-12">
+              <div class="input-group input-group-lg">
+                <span class="input-group-text rounded-start-5">
+                  <i class="fas fa-search"></i>
+                </span>
+                <input
+                  type="text"
+                  class="form-control rounded-end-5"
+                  placeholder="search ratings"
+                />
+              </div>
+            </div>
+          </div>
+          <div class="row p-5">
+            <div class="col-12 vstack gap-2">
+              <h5>Reviews</h5>
+              <div class="d-flex align-items-center gap-2">
+                <span>5</span> <i class="fas fa-star text-warning"></i>
+                <div class="progress ms-3" style="height: 10px; width: 100%">
+                  <div
+                    class="progress-bar bg-warning"
+                    style="width: 80%"
+                    role="progressbar"
+                    aria-valuenow="80"
+                    aria-valuemax="100"
+                    aria-valuemin="0"
+                  ></div>
+                </div>
+              </div>
+              <div class="d-flex align-items-center gap-2">
+                <span>3</span> <i class="fas fa-star text-warning"></i>
+                <div class="progress ms-3" style="height: 10px; width: 100%">
+                  <div
+                    class="progress-bar bg-warning"
+                    style="width: 60%"
+                    role="progressbar"
+                    aria-valuenow="60"
+                    aria-valuemax="100"
+                    aria-valuemin="0"
+                  ></div>
+                </div>
+              </div>
+              <div class="d-flex align-items-center gap-2">
+                <span>1</span> <i class="fas fa-star text-warning"></i>
+                <div class="progress ms-3" style="height: 10px; width: 100%">
+                  <div
+                    class="progress-bar bg-warning"
+                    style="width: 20%"
+                    role="progressbar"
+                    aria-valuenow="20"
+                    aria-valuemax="100"
+                    aria-valuemin="0"
+                  ></div>
+                </div>
+              </div>
+              <div class="d-flex align-items-center gap-2">
+                <span>2</span> <i class="fas fa-star text-warning"></i>
+                <div class="progress ms-3" style="height: 10px; width: 100%">
+                  <div
+                    class="progress-bar bg-warning"
+                    style="width: 40%"
+                    role="progressbar"
+                    aria-valuenow="40"
+                    aria-valuemax="100"
+                    aria-valuemin="0"
+                  ></div>
+                </div>
+              </div>
+              <div class="d-flex align-items-center gap-2">
+                <span>3</span> <i class="fas fa-star text-warning"></i>
+                <div class="progress ms-3" style="height: 10px; width: 100%">
+                  <div
+                    class="progress-bar bg-warning"
+                    style="width: 60%"
+                    role="progressbar"
+                    aria-valuenow="65"
+                    aria-valuemax="100"
+                    aria-valuemin="0"
+                  ></div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- review btn -->
+          <div class="row px-5 pb-4">
+            <div class="col-12">
+              <a href="#" class="btn btn-success btn-lg rounded-5"> Reviews </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="js/bootstrap.bundle.min.js"></script>
+  </body>
+</html>
