@@ -1,0 +1,9 @@
+@media (max-width: 767px) {
+  .user-list {
+    justify-content: center !important;
+    margin-top: 20px;
+  }
+}
+.nav a {
+  font-weight: 700 !important;
+}

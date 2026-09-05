@@ -25,6 +25,7 @@ To improve front-end skills, build real-world UI structures, experiment with dif
 | 03  | Tutor-website          | [Live Demo](https://tutor-aqil.netlify.app/)        |
 | 04  | Pricing Crads using BS | [Live Demo](https://cards-aqil.netlify.app/)        |
 | 05  | Rating Compt using BS  | [Live Demo](https://rating-compt-aqil.netlify.app/) |
+| 06  | user List using BS     | [Live Demo](https://rating-compt-aqil.netlify.app/) |
 
 ---
 
